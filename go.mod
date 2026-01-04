@@ -1,3 +1,5 @@
 module github.com/tracker-tv/tmdb-ids-producer
 
 go 1.25.4
+
+require github.com/caarlos0/env/v11 v11.3.1
